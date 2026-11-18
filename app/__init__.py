@@ -1,0 +1,1 @@
+"""University placement academic implementation."""
